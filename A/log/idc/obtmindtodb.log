@@ -1,0 +1,6 @@
+2025-12-25 20:45:24 connect database(idc/idcpwd@snorcl11g_5) ok.
+2025-12-25 20:45:25 已处理文件/A/idc/observedata/observe_data20251210151300.csv（totalcount=839,insertcount=839），耗时0.59秒。
+2025-12-25 20:45:26 已处理文件/A/idc/observedata/observe_data20251210151300.xml（totalcount=839,insertcount=0），耗时0.68秒。
+2025-12-25 21:04:47 connect database(idc/idcpwd@snorcl11g_5) ok.
+2025-12-25 21:04:48 已处理文件/A/idc/observedata/observe_data20251210151300.csv（totalcount=839,insertcount=0），耗时0.67秒。
+2025-12-25 21:04:49 已处理文件/A/idc/observedata/observe_data20251210151300.xml（totalcount=839,insertcount=0），耗时0.61秒。

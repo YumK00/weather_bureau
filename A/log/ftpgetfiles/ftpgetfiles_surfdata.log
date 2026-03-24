@@ -1,0 +1,6 @@
+2025-12-11 23:15:55 loadlistedfile   filename=1.csv,mtime=20251211204057
+2025-12-11 23:15:55 loadlistedfile   filename=2.csv,mtime=20251211204109
+2025-12-11 23:15:55 loadlistedfile   filename=3.csv,mtime=20251211204115
+2025-12-11 23:15:55 loadlistedfile   filename=5.csv,mtime=20251211205909
+2025-12-11 23:15:55 loadlistedfile   filename=aa.csv,mtime=20251211231536
+2025-12-11 23:15:55 get /home/dba/tmp/aa.csv ... ok.

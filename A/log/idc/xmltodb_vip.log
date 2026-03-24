@@ -1,0 +1,39 @@
+
+2026-01-22 13:35:17 loadxmltotable(/A/idc/ini/xmltodb.xml) ok.
+2026-01-22 13:35:17 vxmltotable.filename=T_ZHOBTCODE_*.xml.
+2026-01-22 13:35:17 vxmltotable.filename=ZHOBTMIND_*.XML.
+
+2026-01-22 13:35:17 connect db(idc/idcpwd) ok.
+2026-01-22 13:35:17 处理文件/A/idcdata/xmltodb/vip/T_ZHOBTCODE_20260106161120_togxpt_1.xml...
+2026-01-22 13:35:17 instertsql = insert into T_ZHOBTCODE1(obtid,cityname,provname,lat,lon,height,keyid)values(:1,:2,:3,:4,:5,:6,SEQ_ZHOBTCODE1.nextval).
+2026-01-22 13:35:17 updatesql = update T_ZHOBTCODE1 set obtid=:1,cityname=:2,provname=:3,lat=:4,lon=:5,height=:6,uptime=sysdate where 1=1 and obtid=:7.
+2026-01-22 13:35:17 stmtinsert.bindin(1, vcolvalue[0], 5);
+2026-01-22 13:35:17 stmtinsert.bindin(2, vcolvalue[1], 30);
+2026-01-22 13:35:17 stmtinsert.bindin(3, vcolvalue[2], 30);
+2026-01-22 13:35:17 stmtinsert.bindin(4, vcolvalue[3], 22);
+2026-01-22 13:35:17 stmtinsert.bindin(5, vcolvalue[4], 22);
+2026-01-22 13:35:17 stmtinsert.bindin(6, vcolvalue[5], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(1, vcolvalue[1], 30);
+2026-01-22 13:35:17 stmtupdate.bindin(2, vcolvalue[2], 30);
+2026-01-22 13:35:17 stmtupdate.bindin(3, vcolvalue[3], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(4, vcolvalue[4], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(5, vcolvalue[5], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(6, vcolvalue[0], 5);
+ok(T_ZHOBTCODE1,总数=838,插入=838,更新=0，耗时=0.166977).
+2026-01-22 13:35:17 处理文件/A/idcdata/xmltodb/vip/T_ZHOBTCODE_20260107125657_togxpt_1.xml...
+2026-01-22 13:35:17 instertsql = insert into T_ZHOBTCODE1(obtid,cityname,provname,lat,lon,height,keyid)values(:1,:2,:3,:4,:5,:6,SEQ_ZHOBTCODE1.nextval).
+2026-01-22 13:35:17 updatesql = update T_ZHOBTCODE1 set obtid=:1,cityname=:2,provname=:3,lat=:4,lon=:5,height=:6,uptime=sysdate where 1=1 and obtid=:7.
+2026-01-22 13:35:17 stmtinsert.bindin(1, vcolvalue[0], 5);
+2026-01-22 13:35:17 stmtinsert.bindin(2, vcolvalue[1], 30);
+2026-01-22 13:35:17 stmtinsert.bindin(3, vcolvalue[2], 30);
+2026-01-22 13:35:17 stmtinsert.bindin(4, vcolvalue[3], 22);
+2026-01-22 13:35:17 stmtinsert.bindin(5, vcolvalue[4], 22);
+2026-01-22 13:35:17 stmtinsert.bindin(6, vcolvalue[5], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(1, vcolvalue[1], 30);
+2026-01-22 13:35:17 stmtupdate.bindin(2, vcolvalue[2], 30);
+2026-01-22 13:35:17 stmtupdate.bindin(3, vcolvalue[3], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(4, vcolvalue[4], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(5, vcolvalue[5], 22);
+2026-01-22 13:35:17 stmtupdate.bindin(6, vcolvalue[0], 5);
+ok(T_ZHOBTCODE1,总数=838,插入=838,更新=0，耗时=0.151002).
+2026-01-22 13:35:17 dir.readdir failed.

@@ -1,0 +1,80 @@
+2026-03-02 10:33:28 接收线程启动，监听端口：5088
+2026-03-02 10:33:28 发送线程启动
+2026-03-02 10:33:28 工作线程(2)启动，数据库连接成功
+2026-03-02 10:33:28 工作线程(3)启动，数据库连接成功
+2026-03-02 10:33:28 工作线程(1)启动，数据库连接成功
+2026-03-02 10:33:42 接受新连接:client(socket=16, ip=192.168.5.3).
+2026-03-02 10:33:42 接收线程:recv 16,557 bytes
+2026-03-02 10:33:42 接收线程：接收到了一个完整的请求报文。
+2026-03-02 10:33:42 工作线程(2)处理请求:sock=16, clientip=192.168.5.3, msg=GET /api?username=idc&passwd=idcpwd&intername=getzhobtcode HTTP/1.1
+Host: 192.168.5.5:5088
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2026-03-02 10:33:42 接受新连接:client(socket=17, ip=192.168.5.3).
+2026-03-02 10:33:42 workmain: username=idc, passwd=idcpwd, intername=getzhobtcode, clientip=192.168.5.3
+2026-03-02 10:33:42 原始ip='192.168.5.3', 长度=1000
+2026-03-02 10:33:42 原始clientip='192.168.5.3', 长度=11
+2026-03-02 10:33:42 清理后ip='192.168.5.3', 长度=11
+2026-03-02 10:33:42 清理后clientip='192.168.5.3', 长度=11
+2026-03-02 10:33:42 客户连上来的地址(192.168.5.3)在绑定IP列表中
+2026-03-02 10:33:42 发送线程:向16发送了110960字节.
+2026-03-02 10:33:42 发送线程:向16发送了2393字节.
+2026-03-02 10:33:44 接收线程:recv 16,476 bytes
+2026-03-02 10:33:44 接收线程：接收到了一个完整的请求报文。
+2026-03-02 10:33:44 工作线程(2)处理请求:sock=16, clientip=192.168.5.3, msg=GET /favicon.ico HTTP/1.1
+Host: 192.168.5.5:5088
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.5.5:5088/api?username=idc&passwd=idcpwd&intername=getzhobtcode
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2026-03-02 10:33:44 收到favicon.ico请求，返回空响应
+2026-03-02 10:34:02 客户端断开连接,socket=16.
+2026-03-02 10:34:06 程序退出, sig=2
+2026-03-02 10:34:06 程序即将退出.
+2026-03-02 10:34:06 接收线程退出
+2026-03-02 10:34:06 工作线程(2)即将退出.
+2026-03-02 10:34:06 工作线程(3)即将退出.
+2026-03-02 10:34:06 工作线程(1)即将退出.
+2026-03-02 10:34:07 发送线程退出
+2026-03-20 19:59:51 接收线程启动，监听端口：5008
+2026-03-20 19:59:51 发送线程启动
+2026-03-20 19:59:52 connect database(idc/idcpwd@snorcl11g_5) failed.
+initialize oracle call interface failed.
+
+2026-03-20 19:59:52 connect database(idc/idcpwd@snorcl11g_5) failed.
+initialize oracle call interface failed.
+
+2026-03-20 19:59:52 connect database(idc/idcpwd@snorcl11g_5) failed.
+initialize oracle call interface failed.
+
+2026-03-20 20:03:02 接受新连接:client(socket=12, ip=192.168.5.3).
+2026-03-20 20:03:02 接收线程:recv 12,533 bytes
+2026-03-20 20:03:02 接收线程：接收到了一个完整的请求报文。
+2026-03-20 20:03:02 接受新连接:client(socket=13, ip=192.168.5.3).
+2026-03-20 20:03:16 客户端断开连接,socket=12.
+2026-03-20 20:03:16 接受新连接:client(socket=12, ip=192.168.5.5).
+2026-03-20 20:03:16 接收线程:recv 12,531 bytes
+2026-03-20 20:03:16 接收线程：接收到了一个完整的请求报文。
+2026-03-20 20:03:16 接受新连接:client(socket=14, ip=192.168.5.5).
+2026-03-20 20:03:30 客户端断开连接,socket=12.
+2026-03-20 20:03:42 接收线程:recv 14,531 bytes
+2026-03-20 20:03:42 接收线程：接收到了一个完整的请求报文。
+2026-03-20 20:03:42 接受新连接:client(socket=12, ip=192.168.5.5).
+2026-03-20 20:04:31 客户端断开连接,socket=14.
+2026-03-20 20:04:33 客户端断开连接,socket=13.
+2026-03-20 20:04:54 客户端断开连接,socket=12.
+2026-03-20 20:05:27 程序退出, sig=2
+2026-03-20 20:05:27 程序即将退出.
+2026-03-20 20:05:27 接收线程退出
+2026-03-20 20:05:28 发送线程退出

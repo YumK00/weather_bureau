@@ -1,0 +1,19 @@
+2025-12-17 16:08:03 登录成功:192.168.5.5,5005
+2025-12-17 16:08:03 sendbuffer:<filename>/A/tmp/ftptmpfile/1.xml</filename><mtime>20251216213905</mtime><size>0</size>
+2025-12-17 16:08:04 sendbuffer:<filename>/A/tmp/ftptmpfile/2.xml</filename><mtime>20251216233053</mtime><size>6</size>
+2025-12-17 16:08:14 发送:<activetest>ok</activetest> succeed
+2025-12-17 16:08:14 接收:ok succeed
+2025-12-17 16:08:24 发送:<activetest>ok</activetest> succeed
+2025-12-17 16:08:24 接收:ok succeed
+2025-12-17 16:08:34 发送:<activetest>ok</activetest> succeed
+2025-12-17 16:08:34 接收:ok succeed
+2025-12-17 16:08:44 发送:<activetest>ok</activetest> succeed
+2025-12-17 16:08:44 接收:ok succeed
+2025-12-17 16:36:12 登录成功:192.168.5.5,5005
+2025-12-17 16:36:12 sendbuffer:<filename>/A/tmp/ftptmpfile/1.xml</filename><mtime>20251216213905</mtime><size>0</size>
+2025-12-17 16:36:12 send /A/tmp/ftptmpfile/1.xml 2025-12-17 16:36:12 ok.
+2025-12-17 16:36:12 sendbuffer:<filename>/A/tmp/ftptmpfile/2.xml</filename><mtime>20251216233053</mtime><size>6</size>
+2025-12-17 16:36:12 send /A/tmp/ftptmpfile/2.xml 2025-12-17 16:36:12 ok.
+2025-12-17 16:36:22 发送:<activetest>ok</activetest> succeed
+2025-12-17 16:36:42 tcpclient.read(<filename>Hj</filename><result>ok<result>
+) failed.

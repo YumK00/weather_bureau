@@ -1,0 +1,10 @@
+drwx------    4 1002     1002          148 Dec 04 10:29 .
+drwxr-xr-x    4 0        0              28 Nov 19 05:31 ..
+-rw-------    1 1002     1002        16704 Dec 04 08:12 .bash_history
+-rw-r--r--    1 1002     1002           18 Oct 30  2018 .bash_logout
+-rw-r--r--    1 1002     1002          193 Oct 30  2018 .bash_profile
+-rw-r--r--    1 1002     1002          231 Oct 30  2018 .bashrc
+drwxr-xr-x    3 1002     1002           29 Nov 19 09:13 .cache
+-rw-r--r--    1 1002     1002          172 Aug 10  2022 .kshrc
+drwxr-xr-x    5 1002     1002          208 Dec 04 05:20 .vscode-server
+-rw-r--r--    1 1002     1002        46764 Dec 04 10:29 remote:
